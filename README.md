@@ -3,20 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=3000&pause=500&color=9D59D2&center=true&width=435&lines=Hello+there!;I'm+Margo.;'Sky+tuned+to+a+dead+channel')](https://git.io/typing-svg)
 
-```rust
-fn neuromancer_ice(cyberdeck: &str) -> String {
-    match cyberdeck {
-        "Ono-Sendai" => String::from(">> ICE breached. Wintermute is watching..."),
-        _ => String::from(">> ICE freezes your synapses.")
-    }
-}
-```
 <br/>
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,arch" />
-    <img src="https://skillicons.dev/icons?i=rust,go,react,tailwind,cs,dotnet,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,docker,java,mysql,git,github,githubactions,react,tailwind" /><br>
 </div>
 
 <br/>
